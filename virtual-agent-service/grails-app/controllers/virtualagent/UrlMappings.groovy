@@ -1,4 +1,4 @@
-package virtual.agent.service
+package virtualagent
 
 class UrlMappings {
 

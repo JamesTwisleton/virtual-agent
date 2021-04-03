@@ -1,4 +1,4 @@
-package virtual.agent.service
+package virtualagent
 
 import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification

@@ -1,4 +1,4 @@
-package virtual.agent.service
+
 
 class BootStrap {
 
