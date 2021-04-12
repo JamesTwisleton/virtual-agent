@@ -81,4 +81,4 @@ grails:
         port: 27017
         #username: ""
         #password: ""
-        #databaseName: "mydatabase"
+        databaseName: "virtualagent"
