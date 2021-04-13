@@ -6,6 +6,7 @@ import grails.rest.*
 class User {
 
     String username
+    String thing
 
     static constraints = {
         username blank:false
